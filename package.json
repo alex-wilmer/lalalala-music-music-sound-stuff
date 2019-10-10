@@ -1,0 +1,24 @@
+{
+  "name": "lalala-music-sound-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-wilmer/lalalala-music-music-sound-stuff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-wilmer/lalalala-music-music-sound-stuff/issues"
+  },
+  "homepage": "https://github.com/alex-wilmer/lalalala-music-music-sound-stuff#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
