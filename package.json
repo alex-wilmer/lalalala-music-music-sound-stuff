@@ -22,6 +22,9 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
-    "audiokeys": "^0.1.1"
+    "@tonaljs/scale": "^3.2.3",
+    "audiokeys": "^0.1.1",
+    "lodash": "^4.17.15",
+    "tone": "^13.8.25"
   }
 }
