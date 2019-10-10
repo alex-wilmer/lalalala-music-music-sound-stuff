@@ -20,5 +20,8 @@
   "homepage": "https://github.com/alex-wilmer/lalalala-music-music-sound-stuff#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "audiokeys": "^0.1.1"
   }
 }
